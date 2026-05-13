@@ -13,6 +13,7 @@
 
     <properties>
         <java.version>17</java.version>
+        <start-class>com.example.taskmanager.TaskManagerApplication</start-class>
     </properties>
 
     <dependencies>
